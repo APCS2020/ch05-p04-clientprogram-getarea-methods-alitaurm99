@@ -1,4 +1,4 @@
-public class GetArea{
+public class GetTotalArea{
     public static double getAllCircleArea(Circle[] clist){
         double sum = 0;
         for(int i = 0; i < clist.length; i++){
